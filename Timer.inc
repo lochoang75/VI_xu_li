@@ -1,0 +1,1 @@
+extern		Timer0_init,Timer0_isr

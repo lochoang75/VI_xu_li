@@ -1,0 +1,1 @@
+extern		Lcd_init,Lcd_cls,Lcd_gotoxy,Lcd_putc,lcd_wr,lcd_row,lcd_col

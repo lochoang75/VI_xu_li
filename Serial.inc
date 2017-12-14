@@ -1,0 +1,1 @@
+extern	Serial_init,Send_char,Serial_isr,tx_char,rc_char
